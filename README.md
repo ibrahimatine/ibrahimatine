@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/tine29i" target="blank"><img src="https://img.shields.io/twitter/follow/tine29i?logo=twitter&style=for-the-badge" alt="tine29i" /></a> </p>
 
-- 🔭 I’m currently working on **Ascii-Art**
+- 🔭 I’m currently working on **Mini-Framework**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **ibrahimatine29@gmail.com**
 
